@@ -1,6 +1,4 @@
-package com.paypal.interview.interviewDemo.data;
-
-import com.paypal.interview.interviewDemo.data.Book;
+package com.paypal.interview.interviewDemo.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

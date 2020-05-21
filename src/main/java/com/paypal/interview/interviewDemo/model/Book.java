@@ -1,4 +1,4 @@
-package com.paypal.interview.interviewDemo.data;
+package com.paypal.interview.interviewDemo.model;
 
 import javax.persistence.*;
 

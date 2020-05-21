@@ -1,6 +1,6 @@
-package com.paypal.interview.interviewDemo.data;
+package com.paypal.interview.interviewDemo.dao;
 
-import com.paypal.interview.interviewDemo.data.Book;
+import com.paypal.interview.interviewDemo.model.Book;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

@@ -1,7 +1,7 @@
 package com.paypal.interview.interviewDemo;
 
 import com.paypal.interview.interviewDemo.controller.BookController;
-import com.paypal.interview.interviewDemo.data.Book;
+import com.paypal.interview.interviewDemo.model.Book;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

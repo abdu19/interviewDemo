@@ -2,14 +2,13 @@ package com.paypal.interview.interviewDemo;
 
 import com.paypal.interview.interviewDemo.controller.BookController;
 import com.paypal.interview.interviewDemo.controller.LibraryController;
-import com.paypal.interview.interviewDemo.data.Book;
-import com.paypal.interview.interviewDemo.data.Library;
+import com.paypal.interview.interviewDemo.model.Book;
+import com.paypal.interview.interviewDemo.model.Library;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @SpringBootTest
